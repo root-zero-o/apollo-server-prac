@@ -7,3 +7,6 @@ GraphQL, Apollo Server
 
 ## What I Learned
 GraphQL basics(query, mutation, type, resolver), Apollo Server basics 
+- [TIL - Setting](https://github.com/root-zero-o/TIL/blob/master/GraphQL/ApolloServer-Setting.md)
+- [TIL - resolver](https://github.com/root-zero-o/TIL/blob/master/GraphQL/ApolloServer-resolvers.md)
+- [TIL - type](https://github.com/root-zero-o/TIL/blob/master/GraphQL/ApolloServer-type.md)
