@@ -6,4 +6,4 @@
 GraphQL, Apollo Server
 
 ## What I Learned
-GraphQL basics, Apollo Server basics
+GraphQL basics(query, mutation, type, resolver), Apollo Server basics 
